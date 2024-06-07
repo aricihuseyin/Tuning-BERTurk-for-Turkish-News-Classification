@@ -20,5 +20,5 @@ The aim of this project is to leverage the `bert-base-turkish-uncased` model pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aricihuseyin/fine-tuning-berturk-for-turkish-news-classification.git
+   git clone https://github.com/aricihuseyin/tuning-berturk-for-turkish-news-classification.git
    cd fine-tuning-berturk-for-turkish-news-classification
